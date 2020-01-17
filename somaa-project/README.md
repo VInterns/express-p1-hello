@@ -18,4 +18,4 @@ $ npm start
 Then open a browser and go to localhost:3000/hello.
 
 #### Output
-If you followed the steps in How To Use, you should be getting an output exactly like this: ![alt text]()
+If you followed the steps in How To Use, you should be getting an output exactly like this: ![alt text](https://github.com/VInterns/express-p1-hello/blob/master/somaa-project/images/output-express.png)
